@@ -70,8 +70,9 @@ Examples:
 -A “Buy Now” button takes them to checkout.
 -A form collects user info for a newsletter.
 
-## Benefits of Wireframing in Software Development
-Clarifies the Vision Early
+# Benefits of Wireframing in Software Development
+
+## Clarifies the Vision Early
 Why it matters: Before writing any code, everyone on the team gets a clear picture of what’s being built.
 
 Example:
@@ -82,7 +83,7 @@ A wireframe helps define:
 -What the checkout flow looks like
 -This avoids confusion later and keeps the project on the same track.
 
-2. 🛠️ Guides the Design and Development Process
+## Guides the Design and Development Process
 Why it matters: Wireframes act like a blueprint — they help designers and developers plan the layout and flow before styling and functionality are added.
 
 Example:
