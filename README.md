@@ -133,76 +133,55 @@ Example:
 -Reduces guesswork and rework during development.
 
 
+# Real world scenario where wireframing identified potential usability issues before the development phase.
 
 Scenario: Doctor Appointment Booking App (MedConnect)
-🧠 The Idea:
-A team was building a web app where users in Nigeria could book doctor appointments, view available time slots, and get health tips. The goal was to make healthcare access easier — especially for users unfamiliar with digital tools.
+The Idea:
+A team was building a web app where users in Nigeria could book doctor appointments, view available time slots, and get health tips. The goal was to make healthcare access easier especially for users unfamiliar with digital tools.
 
-📐 Wireframing Stage
+## Wireframing Stage
 The design team created low-fidelity wireframes showing:
-
 A calendar interface with time slots
-
 A form to enter patient details
-
 Navigation links: Home | Book Appointment | Health Articles
-
 Before jumping into development, the team shared the wireframes with:
-
 Test users (from healthcare and non-tech backgrounds)
-
 Doctors and stakeholders
-
 The backend & frontend dev team
 
-🚨 Usability Issues Discovered
-1. 🗓️ Confusing Time Slot Selection
+## Usability Issues Discovered
+###1. Confusing Time Slot Selection
 Users didn’t understand if they were booking a specific time or just a date.
-
 Wireframe had no clear indicator of selected slot.
 
-✅ Fix:
+### Fix:
 
 A redesigned wireframe included clearly labeled buttons for available time slots (e.g., "10:00 AM – 10:30 AM") and a highlighted selected state.
 
-2. 📱 Poor Mobile Layout
+### 2. Poor Mobile Layout
 On smaller screens, the calendar and form were squished, making it hard to tap or read.
 
-✅ Fix:
+### Fix:
 
 Wireframes were adjusted to stack the form below the calendar on mobile.
 
 Larger touch areas were added for ease of use.
 
-3. ❌ Users Skipping Form Fields
-During review, it was noticed that people skipped filling out important health details because the form didn’t guide them properly.
 
-✅ Fix:
-
-The wireframe was updated to:
-
-Group related fields together
-
-Add short instructions or tooltips for clarification
-
-✅ Impact on the Final Product
+# Impact on the Final Product
 Because these issues were found before any code was written, the team:
-
 Saved development time (no redesign mid-sprint)
-
 Created a product that was easier and faster to use
-
 Received positive feedback from early beta testers for its clarity and usability
 
-🧩 Conclusion: The Power of Wireframing
-This scenario shows how wireframing plays a crucial role in creating user-friendly software:
+The Power of Wireframing,t his scenario shows how wireframing plays a crucial role in creating user-friendly software:
 
-✅ It helps teams spot issues early
-✅ Encourages feedback before it's expensive to fix
-✅ Focuses attention on user flow and experience
-✅ Builds alignment across designers, developers, and stakeholders
+ It helps teams spot issues early
+Encourages feedback before it's expensive to fix
+Focuses attention on user flow and experience
+Builds alignment across designers, developers, and stakeholders.
 
-Wireframing isn’t just about sketching boxes — it’s about making better products by planning smarter.
+Wireframing isn’t just about sketching boxes. it’s about making better products by planning smarter.
 
 
 
